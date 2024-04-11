@@ -21,4 +21,4 @@ To use the banknote authentication model:
 1. Clone this repository to your local machine.
 2. Install the required dependencies using `pip install -r requirements.txt`.
 3. Run the FastAPI server using `uvicorn main:app --reload`.
-4. Send POST requests to the `/predict` endpoint with banknote images to authenticate them.
+4. Send POST requests to the `/predict` endpoint with the data required.
